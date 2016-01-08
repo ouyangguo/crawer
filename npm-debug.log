@@ -1,0 +1,251 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'node-curl' ]
+2 info using npm@2.11.3
+3 info using node@v0.12.7
+4 verbose config Skipping project config: /home/ou/.npmrc. (matches userconfig)
+5 verbose install initial load of /home/ou/package.json
+6 verbose installManyTop reading scoped package data from /home/ou/node_modules/babel-preset-react/package.json
+7 verbose installManyTop reading scoped package data from /home/ou/node_modules/babelify/package.json
+8 verbose installManyTop reading scoped package data from /home/ou/node_modules/browserify/package.json
+9 verbose installManyTop reading scoped package data from /home/ou/node_modules/exorcist/package.json
+10 verbose installManyTop reading scoped package data from /home/ou/node_modules/express-generator/package.json
+11 verbose installManyTop reading scoped package data from /home/ou/node_modules/glob/package.json
+12 verbose installManyTop reading scoped package data from /home/ou/node_modules/gulp/package.json
+13 verbose installManyTop reading scoped package data from /home/ou/node_modules/gulp-rename/package.json
+14 verbose installManyTop reading scoped package data from /home/ou/node_modules/gulp-uglify/package.json
+15 verbose installManyTop reading scoped package data from /home/ou/node_modules/jquery/package.json
+16 verbose installManyTop reading scoped package data from /home/ou/node_modules/log4js/package.json
+17 verbose installManyTop reading scoped package data from /home/ou/node_modules/node-gyp/package.json
+18 verbose installManyTop reading scoped package data from /home/ou/node_modules/react/package.json
+19 verbose installManyTop reading scoped package data from /home/ou/node_modules/react-dom/package.json
+20 verbose installManyTop reading scoped package data from /home/ou/node_modules/uglify/package.json
+21 verbose installManyTop reading scoped package data from /home/ou/node_modules/vinyl-buffer/package.json
+22 verbose installManyTop reading scoped package data from /home/ou/node_modules/vinyl-source-stream/package.json
+23 info package.json exorcist@0.4.0 license should be a valid SPDX license expression
+24 info package.json uglify@0.1.5 No license field.
+25 info package.json gulp-rename@1.2.2 No license field.
+26 info package.json jquery@2.1.4 No license field.
+27 verbose readDependencies loading dependencies from /home/ou/package.json
+28 silly cache add args [ 'node-curl', null ]
+29 verbose cache add spec node-curl
+30 silly cache add parsed spec { raw: 'node-curl',
+30 silly cache add   scope: null,
+30 silly cache add   name: 'node-curl',
+30 silly cache add   rawSpec: '',
+30 silly cache add   spec: '*',
+30 silly cache add   type: 'range' }
+31 silly addNamed node-curl@*
+32 verbose addNamed "*" is a valid semver range for node-curl
+33 silly addNameRange { name: 'node-curl', range: '*', hasData: false }
+34 silly mapToRegistry name node-curl
+35 silly mapToRegistry using default registry
+36 silly mapToRegistry registry https://registry.npmjs.org/
+37 silly mapToRegistry uri https://registry.npmjs.org/node-curl
+38 verbose addNameRange registry:https://registry.npmjs.org/node-curl not in flight; fetching
+39 verbose request uri https://registry.npmjs.org/node-curl
+40 verbose request no auth needed
+41 info attempt registry request try #1 at 17:18:19
+42 verbose request id edf4900a2d9f5a74
+43 verbose etag "1G6UH6H16LF4E7F3OUAZRZD0M"
+44 http request GET https://registry.npmjs.org/node-curl
+45 http 304 https://registry.npmjs.org/node-curl
+46 silly get cb [ 304,
+46 silly get   { date: 'Thu, 07 Jan 2016 09:18:19 GMT',
+46 silly get     via: '1.1 varnish',
+46 silly get     'cache-control': 'max-age=300',
+46 silly get     etag: '"1G6UH6H16LF4E7F3OUAZRZD0M"',
+46 silly get     age: '63',
+46 silly get     connection: 'keep-alive',
+46 silly get     'x-served-by': 'cache-hkg6822-HKG',
+46 silly get     'x-cache': 'HIT',
+46 silly get     'x-cache-hits': '1',
+46 silly get     'x-timer': 'S1452158299.829384,VS0,VE0',
+46 silly get     vary: 'Accept' } ]
+47 verbose etag https://registry.npmjs.org/node-curl from cache
+48 verbose get saving node-curl to /home/ou/.npm/registry.npmjs.org/node-curl/.cache.json
+49 silly addNameRange number 2 { name: 'node-curl', range: '*', hasData: true }
+50 silly addNameRange versions [ 'node-curl',
+50 silly addNameRange   [ '0.1.0',
+50 silly addNameRange     '0.1.1',
+50 silly addNameRange     '0.1.2',
+50 silly addNameRange     '0.1.3',
+50 silly addNameRange     '0.1.4',
+50 silly addNameRange     '0.1.5',
+50 silly addNameRange     '0.1.6',
+50 silly addNameRange     '0.1.7',
+50 silly addNameRange     '0.1.8',
+50 silly addNameRange     '0.2.0',
+50 silly addNameRange     '0.2.1',
+50 silly addNameRange     '0.2.2',
+50 silly addNameRange     '0.2.3',
+50 silly addNameRange     '0.3.0',
+50 silly addNameRange     '0.3.1',
+50 silly addNameRange     '0.3.3' ] ]
+51 silly addNamed node-curl@0.3.3
+52 verbose addNamed "0.3.3" is a plain semver version for node-curl
+53 silly cache afterAdd node-curl@0.3.3
+54 verbose afterAdd /home/ou/.npm/node-curl/0.3.3/package/package.json not in flight; writing
+55 verbose afterAdd /home/ou/.npm/node-curl/0.3.3/package/package.json written
+56 silly install resolved [ { name: 'node-curl',
+56 silly install resolved     version: '0.3.3',
+56 silly install resolved     author: { name: 'Jiang Miao', email: 'jiangfriend@gmail.com' },
+56 silly install resolved     description: 'node wrapper for multi curl, fully implemented.',
+56 silly install resolved     keywords: [ 'node-curl', 'curl', 'multi-curl', 'mcurl' ],
+56 silly install resolved     homepage: 'http://github.com/jiangmiao/node-curl',
+56 silly install resolved     repository: { type: 'git', url: 'git://github.com/jiangmiao/node-curl.git' },
+56 silly install resolved     main: './lib',
+56 silly install resolved     scripts: { install: 'sh src/generate_curl_options_list.sh && (node-gyp rebuild || node-waf configure build)' },
+56 silly install resolved     engines: { node: '>= 0.6.0' },
+56 silly install resolved     bugs: { url: 'https://github.com/jiangmiao/node-curl/issues' },
+56 silly install resolved     _id: 'node-curl@0.3.3',
+56 silly install resolved     _shasum: '71274370774c2298b860307a9e45877701638735',
+56 silly install resolved     _resolved: 'https://registry.npmjs.org/node-curl/-/node-curl-0.3.3.tgz',
+56 silly install resolved     _from: 'node-curl@*',
+56 silly install resolved     _npmVersion: '1.4.23',
+56 silly install resolved     _npmUser: { name: 'jiangmiao', email: 'jiangfriend@gmail.com' },
+56 silly install resolved     maintainers: [ [Object] ],
+56 silly install resolved     dist:
+56 silly install resolved      { shasum: '71274370774c2298b860307a9e45877701638735',
+56 silly install resolved        tarball: 'http://registry.npmjs.org/node-curl/-/node-curl-0.3.3.tgz' },
+56 silly install resolved     directories: {},
+56 silly install resolved     readme: 'ERROR: No README data found!' } ]
+57 info install node-curl@0.3.3 into /home/ou
+58 info installOne node-curl@0.3.3
+59 verbose installOne of node-curl to /home/ou not in flight; installing
+60 verbose lock using /home/ou/.npm/_locks/node-curl-cfb9d2aeeb2b3a47.lock for /home/ou/node_modules/node-curl
+61 silly install write writing node-curl 0.3.3 to /home/ou/node_modules/node-curl
+62 verbose unbuild node_modules/node-curl
+63 silly gentlyRm /home/ou/node_modules/node-curl is being purged from base /home/ou
+64 verbose gentlyRm don't care about contents; nuking /home/ou/node_modules/node-curl
+65 verbose tar unpack /home/ou/.npm/node-curl/0.3.3/package.tgz
+66 verbose tar unpacking to /home/ou/node_modules/node-curl
+67 silly gentlyRm /home/ou/node_modules/node-curl is being purged
+68 verbose gentlyRm don't care about contents; nuking /home/ou/node_modules/node-curl
+69 silly gunzTarPerm modes [ '775', '664' ]
+70 silly gunzTarPerm extractEntry package.json
+71 silly gunzTarPerm modified mode [ 'package.json', 420, 436 ]
+72 silly gunzTarPerm extractEntry .npmignore
+73 silly gunzTarPerm modified mode [ '.npmignore', 420, 436 ]
+74 silly gunzTarPerm extractEntry README.md
+75 silly gunzTarPerm modified mode [ 'README.md', 420, 436 ]
+76 silly gunzTarPerm extractEntry index.js
+77 silly gunzTarPerm modified mode [ 'index.js', 420, 436 ]
+78 silly gunzTarPerm extractEntry binding.gyp
+79 silly gunzTarPerm modified mode [ 'binding.gyp', 420, 436 ]
+80 silly gunzTarPerm extractEntry examples/curl.js
+81 silly gunzTarPerm modified mode [ 'examples/curl.js', 420, 436 ]
+82 silly gunzTarPerm extractEntry examples/low-level.js
+83 silly gunzTarPerm modified mode [ 'examples/low-level.js', 420, 436 ]
+84 silly gunzTarPerm extractEntry examples/post-multi-part.js
+85 silly gunzTarPerm modified mode [ 'examples/post-multi-part.js', 420, 436 ]
+86 silly gunzTarPerm extractEntry examples/test.js
+87 silly gunzTarPerm modified mode [ 'examples/test.js', 420, 436 ]
+88 silly gunzTarPerm extractEntry examples/low-level-pressure.js
+89 silly gunzTarPerm modified mode [ 'examples/low-level-pressure.js', 420, 436 ]
+90 silly gunzTarPerm extractEntry examples/test-stream.js
+91 silly gunzTarPerm modified mode [ 'examples/test-stream.js', 420, 436 ]
+92 silly gunzTarPerm extractEntry examples/pressure-multi-post.js
+93 silly gunzTarPerm modified mode [ 'examples/pressure-multi-post.js', 420, 436 ]
+94 silly gunzTarPerm extractEntry examples/test-get-info.js
+95 silly gunzTarPerm modified mode [ 'examples/test-get-info.js', 420, 436 ]
+96 silly gunzTarPerm extractEntry examples/test-errors.js
+97 silly gunzTarPerm modified mode [ 'examples/test-errors.js', 420, 436 ]
+98 silly gunzTarPerm extractEntry examples/quick-start.js
+99 silly gunzTarPerm modified mode [ 'examples/quick-start.js', 420, 436 ]
+100 silly gunzTarPerm extractEntry examples/post.js
+101 silly gunzTarPerm modified mode [ 'examples/post.js', 420, 436 ]
+102 silly gunzTarPerm extractEntry examples/pressure.js
+103 silly gunzTarPerm modified mode [ 'examples/pressure.js', 420, 436 ]
+104 silly gunzTarPerm extractEntry examples/pressure.toffee
+105 silly gunzTarPerm modified mode [ 'examples/pressure.toffee', 420, 436 ]
+106 silly gunzTarPerm extractEntry examples/curl.toffee
+107 silly gunzTarPerm modified mode [ 'examples/curl.toffee', 420, 436 ]
+108 silly gunzTarPerm extractEntry examples/test-errors.toffee
+109 silly gunzTarPerm modified mode [ 'examples/test-errors.toffee', 420, 436 ]
+110 silly gunzTarPerm extractEntry examples/pressure-multi-post.toffee
+111 silly gunzTarPerm modified mode [ 'examples/pressure-multi-post.toffee', 420, 436 ]
+112 silly gunzTarPerm extractEntry examples/post.toffee
+113 silly gunzTarPerm modified mode [ 'examples/post.toffee', 420, 436 ]
+114 silly gunzTarPerm extractEntry examples/test-stream.toffee
+115 silly gunzTarPerm modified mode [ 'examples/test-stream.toffee', 420, 436 ]
+116 silly gunzTarPerm extractEntry examples/post-multi-part.toffee
+117 silly gunzTarPerm modified mode [ 'examples/post-multi-part.toffee', 420, 436 ]
+118 silly gunzTarPerm extractEntry examples/test.toffee
+119 silly gunzTarPerm modified mode [ 'examples/test.toffee', 420, 436 ]
+120 silly gunzTarPerm extractEntry .travis.yml
+121 silly gunzTarPerm modified mode [ '.travis.yml', 420, 436 ]
+122 silly gunzTarPerm extractEntry index.toffee
+123 silly gunzTarPerm modified mode [ 'index.toffee', 420, 436 ]
+124 silly gunzTarPerm extractEntry lib/Curl.js
+125 silly gunzTarPerm modified mode [ 'lib/Curl.js', 420, 436 ]
+126 silly gunzTarPerm extractEntry lib/CurlBuilder.js
+127 silly gunzTarPerm modified mode [ 'lib/CurlBuilder.js', 420, 436 ]
+128 silly gunzTarPerm extractEntry lib/Curl.toffee
+129 silly gunzTarPerm modified mode [ 'lib/Curl.toffee', 420, 436 ]
+130 silly gunzTarPerm extractEntry lib/CurlBuilder.toffee
+131 silly gunzTarPerm modified mode [ 'lib/CurlBuilder.toffee', 420, 436 ]
+132 silly gunzTarPerm extractEntry LICENSE-MIT
+133 silly gunzTarPerm modified mode [ 'LICENSE-MIT', 420, 436 ]
+134 silly gunzTarPerm extractEntry src/generate_curl_options_list.sh
+135 silly gunzTarPerm modified mode [ 'src/generate_curl_options_list.sh', 493, 509 ]
+136 silly gunzTarPerm extractEntry src/node-curl.cc
+137 silly gunzTarPerm modified mode [ 'src/node-curl.cc', 420, 436 ]
+138 silly gunzTarPerm extractEntry src/node-curl.h
+139 silly gunzTarPerm modified mode [ 'src/node-curl.h', 420, 436 ]
+140 silly gunzTarPerm extractEntry wscript
+141 silly gunzTarPerm modified mode [ 'wscript', 420, 436 ]
+142 verbose write writing to /home/ou/node_modules/node-curl/package.json
+143 info preinstall node-curl@0.3.3
+144 verbose readDependencies loading dependencies from /home/ou/node_modules/node-curl/package.json
+145 verbose readDependencies loading dependencies from /home/ou/node_modules/node-curl/package.json
+146 silly install resolved []
+147 verbose about to build /home/ou/node_modules/node-curl
+148 info build /home/ou/node_modules/node-curl
+149 info linkStuff node-curl@0.3.3
+150 silly linkStuff node-curl@0.3.3 has /home/ou/node_modules as its parent node_modules
+151 verbose linkBins node-curl@0.3.3
+152 verbose linkMans node-curl@0.3.3
+153 verbose rebuildBundles node-curl@0.3.3
+154 info install node-curl@0.3.3
+155 verbose unsafe-perm in lifecycle true
+156 info node-curl@0.3.3 Failed to exec install script
+157 verbose unlock done using /home/ou/.npm/_locks/node-curl-cfb9d2aeeb2b3a47.lock for /home/ou/node_modules/node-curl
+158 verbose stack Error: node-curl@0.3.3 install: `sh src/generate_curl_options_list.sh && (node-gyp rebuild || node-waf configure build)`
+158 verbose stack spawn ENOENT
+158 verbose stack     at ChildProcess.<anonymous> (/usr/local/lib/node_modules/npm/lib/utils/spawn.js:17:16)
+158 verbose stack     at ChildProcess.emit (events.js:110:17)
+158 verbose stack     at maybeClose (child_process.js:1015:16)
+158 verbose stack     at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+159 verbose pkgid node-curl@0.3.3
+160 verbose cwd /home/ou/nodejs/crawer
+161 error Linux 3.16.0-30-generic
+162 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "node-curl"
+163 error node v0.12.7
+164 error npm  v2.11.3
+165 error file sh
+166 error code ELIFECYCLE
+167 error errno ENOENT
+168 error syscall spawn
+169 error node-curl@0.3.3 install: `sh src/generate_curl_options_list.sh && (node-gyp rebuild || node-waf configure build)`
+169 error spawn ENOENT
+170 error Failed at the node-curl@0.3.3 install script 'sh src/generate_curl_options_list.sh && (node-gyp rebuild || node-waf configure build)'.
+170 error This is most likely a problem with the node-curl package,
+170 error not with npm itself.
+170 error Tell the author that this fails on your system:
+170 error     sh src/generate_curl_options_list.sh && (node-gyp rebuild || node-waf configure build)
+170 error You can get their info via:
+170 error     npm owner ls node-curl
+170 error There is likely additional logging output above.
+171 verbose exit [ 1, true ]
+172 verbose unbuild node_modules/node-curl
+173 info preuninstall node-curl@0.3.3
+174 info uninstall node-curl@0.3.3
+175 verbose unbuild rmStuff node-curl@0.3.3 from /home/ou/node_modules
+176 info postuninstall node-curl@0.3.3
+177 silly gentlyRm /home/ou/node_modules/node-curl is being purged from base /home/ou
+178 verbose gentlyRm don't care about contents; nuking /home/ou/node_modules/node-curl
+179 silly vacuum-fs purging /home/ou/node_modules/node-curl
+180 silly vacuum-fs quitting because other entries in /home/ou/node_modules
