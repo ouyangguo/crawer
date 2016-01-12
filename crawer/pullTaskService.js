@@ -20,6 +20,6 @@ sock.on('message', function(msg){
       console.log(result);
     })
   }catch(err){
-    console.log(err);
+    logger.error("解析任务失败，",err);
   }
 });

@@ -1,0 +1,19 @@
+{
+  "name": "QueueService",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Queue Service",
+  "keywords": [],
+  "dependencies": {
+    "log4js": "^0.6.26",
+    "redis": "^1.0.0",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "start": "node Server.js",
+    "debug": "node debug Server.js"
+  },
+  "main": "Server.js",
+  "author": "Jericho.ou",
+  "license": ""
+}

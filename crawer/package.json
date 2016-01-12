@@ -1,0 +1,19 @@
+{
+  "name": "crawer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawerService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.4.13",
+    "jquery": "^2.2.0",
+    "jsdom": "^3.0.0",
+    "request": "^2.67.0",
+    "underscore": "^1.8.3",
+    "zmq": "^2.14.0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ListMessageCenter",
+  "private": true,
+  "version": "1.0.0",
+  "description": "List Process Task's Message Center",
+  "keywords": [],
+  "dependencies": {
+    "log4js": "^0.6.26",
+    "zmq": "^2.13.0"
+  },
+  "scripts": {
+    "start": "node ListCenterRun.js",
+    "debug": "node debug ListCenterRun.js"
+  },
+  "main": "ListCenterRun.js",
+  "author": "Jericho.ou",
+  "license": ""
+}

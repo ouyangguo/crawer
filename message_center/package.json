@@ -1,0 +1,20 @@
+{
+  "name": "MessageCenter",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Message Center",
+  "keywords": [],
+  "dependencies": {
+    "log4js": "^0.6.26",
+    "request": "^2.63.0",
+    "underscore": "^1.8.3",
+    "zmq": "^2.13.0"
+  },
+  "scripts": {
+    "start": "node MessageCenterRun.js",
+    "debug": "node debug MessageCenterRun.js"
+  },
+  "main": "MessageCenterRun.js",
+  "author": "Jericho.ou",
+  "license": ""
+}

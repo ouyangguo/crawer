@@ -1,0 +1,360 @@
+[2016-01-12 17:00:07.313] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:00:07.314] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:00:07.314] [INFO] dev - 处理时间:8ms
+[2016-01-12 17:00:07.314] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:00:07.315] [INFO] dev - 请求结果:200
+[2016-01-12 17:00:07.315] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452589207311224720649","data":[],"count":0}
+[2016-01-12 17:01:07.324] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:01:07.326] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:01:07.326] [INFO] dev - 处理时间:7ms
+[2016-01-12 17:01:07.326] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:01:07.327] [INFO] dev - 请求结果:200
+[2016-01-12 17:01:07.327] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452589267322471557853","data":[],"count":0}
+[2016-01-12 17:02:07.416] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:02:07.417] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:02:07.417] [INFO] dev - 处理时间:33ms
+[2016-01-12 17:02:07.418] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:02:07.418] [INFO] dev - 请求结果:200
+[2016-01-12 17:02:07.418] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452589327404834993966","data":[],"count":0}
+[2016-01-12 17:03:07.433] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:03:07.434] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:03:07.434] [INFO] dev - 处理时间:14ms
+[2016-01-12 17:03:07.435] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:03:07.437] [INFO] dev - 请求结果:200
+[2016-01-12 17:03:07.437] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452589387424930336654","data":[],"count":0}
+[2016-01-12 17:04:07.494] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:04:07.494] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:04:07.495] [INFO] dev - 处理时间:8ms
+[2016-01-12 17:04:07.495] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:04:07.495] [INFO] dev - 请求结果:200
+[2016-01-12 17:04:07.496] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452589447491123094246","data":[],"count":0}
+[2016-01-12 17:05:07.505] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:05:07.505] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:05:07.505] [INFO] dev - 处理时间:8ms
+[2016-01-12 17:05:07.506] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:05:07.506] [INFO] dev - 请求结果:200
+[2016-01-12 17:05:07.506] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452589507503531419349","data":[],"count":0}
+[2016-01-12 17:06:07.575] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:06:07.575] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:06:07.576] [INFO] dev - 处理时间:8ms
+[2016-01-12 17:06:07.576] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:06:07.576] [INFO] dev - 请求结果:200
+[2016-01-12 17:06:07.576] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452589567571632641211","data":[],"count":0}
+[2016-01-12 17:07:07.583] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:07:07.584] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:07:07.584] [INFO] dev - 处理时间:6ms
+[2016-01-12 17:07:07.584] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:07:07.586] [INFO] dev - 请求结果:200
+[2016-01-12 17:07:07.586] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452589627581185094742","data":[],"count":0}
+[2016-01-12 17:08:07.655] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:08:07.656] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:08:07.656] [INFO] dev - 处理时间:9ms
+[2016-01-12 17:08:07.656] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:08:07.657] [INFO] dev - 请求结果:200
+[2016-01-12 17:08:07.657] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452589687653309733334","data":[],"count":0}
+[2016-01-12 17:09:07.665] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:09:07.666] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:09:07.667] [INFO] dev - 处理时间:6ms
+[2016-01-12 17:09:07.667] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:09:07.667] [INFO] dev - 请求结果:200
+[2016-01-12 17:09:07.667] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452589747663618168927","data":[],"count":0}
+[2016-01-12 17:10:07.710] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:10:07.711] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:10:07.711] [INFO] dev - 处理时间:12ms
+[2016-01-12 17:10:07.711] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:10:07.712] [INFO] dev - 请求结果:200
+[2016-01-12 17:10:07.712] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452589807705798268137","data":[],"count":0}
+[2016-01-12 17:11:07.731] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:11:07.731] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:11:07.732] [INFO] dev - 处理时间:9ms
+[2016-01-12 17:11:07.732] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:11:07.741] [INFO] dev - 请求结果:200
+[2016-01-12 17:11:07.742] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452589867729842195447","data":[],"count":0}
+[2016-01-12 17:12:07.777] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:12:07.778] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:12:07.778] [INFO] dev - 处理时间:6ms
+[2016-01-12 17:12:07.778] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:12:07.779] [INFO] dev - 请求结果:200
+[2016-01-12 17:12:07.779] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452589927773626288191","data":[],"count":0}
+[2016-01-12 17:13:07.795] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:13:07.796] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:13:07.796] [INFO] dev - 处理时间:8ms
+[2016-01-12 17:13:07.796] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:13:07.797] [INFO] dev - 请求结果:200
+[2016-01-12 17:13:07.797] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452589987793281023557","data":[],"count":0}
+[2016-01-12 17:14:07.844] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:14:07.844] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:14:07.844] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:14:07.845] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:14:07.845] [INFO] dev - 请求结果:200
+[2016-01-12 17:14:07.846] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452590047842273520892","data":[],"count":0}
+[2016-01-12 17:15:07.854] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:15:07.854] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:15:07.855] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:15:07.855] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:15:07.856] [INFO] dev - 请求结果:200
+[2016-01-12 17:15:07.856] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452590107852995910665","data":[],"count":0}
+[2016-01-12 17:16:07.921] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:16:07.921] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:16:07.921] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:16:07.922] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:16:07.922] [INFO] dev - 请求结果:200
+[2016-01-12 17:16:07.922] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452590167919351469473","data":[],"count":0}
+[2016-01-12 17:17:07.927] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:17:07.927] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:17:07.928] [INFO] dev - 处理时间:3ms
+[2016-01-12 17:17:07.928] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:17:07.928] [INFO] dev - 请求结果:200
+[2016-01-12 17:17:07.928] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452590227926427487153","data":[],"count":0}
+[2016-01-12 17:18:07.993] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:18:07.994] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:18:07.994] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:18:07.994] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:18:07.995] [INFO] dev - 请求结果:200
+[2016-01-12 17:18:07.995] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452590287992348225550","data":[],"count":0}
+[2016-01-12 17:19:07.999] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:19:08.000] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:19:08.000] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:19:08.000] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:19:08.001] [INFO] dev - 请求结果:200
+[2016-01-12 17:19:08.001] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452590347998158330378","data":[],"count":0}
+[2016-01-12 17:20:08.064] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:20:08.064] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:20:08.065] [INFO] dev - 处理时间:3ms
+[2016-01-12 17:20:08.065] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:20:08.065] [INFO] dev - 请求结果:200
+[2016-01-12 17:20:08.065] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452590408063173397542","data":[],"count":0}
+[2016-01-12 17:21:08.072] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:21:08.073] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:21:08.073] [INFO] dev - 处理时间:6ms
+[2016-01-12 17:21:08.074] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:21:08.074] [INFO] dev - 请求结果:200
+[2016-01-12 17:21:08.075] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452590468071319582696","data":[],"count":0}
+[2016-01-12 17:22:08.080] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:22:08.081] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:22:08.081] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:22:08.082] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:22:08.082] [INFO] dev - 请求结果:200
+[2016-01-12 17:22:08.082] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452590528079735119166","data":[],"count":0}
+[2016-01-12 17:23:08.107] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:23:08.108] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:23:08.108] [INFO] dev - 处理时间:3ms
+[2016-01-12 17:23:08.108] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:23:08.109] [INFO] dev - 请求结果:200
+[2016-01-12 17:23:08.109] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452590588106707017558","data":[],"count":0}
+[2016-01-12 17:24:08.155] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:24:08.156] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:24:08.156] [INFO] dev - 处理时间:5ms
+[2016-01-12 17:24:08.156] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:24:08.157] [INFO] dev - 请求结果:200
+[2016-01-12 17:24:08.157] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452590648153508176297","data":[],"count":0}
+[2016-01-12 17:25:08.169] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:25:08.170] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:25:08.170] [INFO] dev - 处理时间:3ms
+[2016-01-12 17:25:08.172] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:25:08.172] [INFO] dev - 请求结果:200
+[2016-01-12 17:25:08.173] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452590708168867889567","data":[],"count":0}
+[2016-01-12 17:26:08.236] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:26:08.237] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:26:08.237] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:26:08.237] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:26:08.238] [INFO] dev - 请求结果:200
+[2016-01-12 17:26:08.238] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"145259076823584776466","data":[],"count":0}
+[2016-01-12 17:27:08.243] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:27:08.244] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:27:08.244] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:27:08.245] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:27:08.245] [INFO] dev - 请求结果:200
+[2016-01-12 17:27:08.246] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452590828241108504984","data":[],"count":0}
+[2016-01-12 17:28:08.294] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:28:08.295] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:28:08.295] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:28:08.295] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:28:08.296] [INFO] dev - 请求结果:200
+[2016-01-12 17:28:08.296] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452590888292461231348","data":[],"count":0}
+[2016-01-12 17:29:08.301] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:29:08.301] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:29:08.301] [INFO] dev - 处理时间:3ms
+[2016-01-12 17:29:08.302] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:29:08.302] [INFO] dev - 请求结果:200
+[2016-01-12 17:29:08.302] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"145259094829938846670","data":[],"count":0}
+[2016-01-12 17:30:08.358] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:30:08.358] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:30:08.358] [INFO] dev - 处理时间:3ms
+[2016-01-12 17:30:08.358] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:30:08.358] [INFO] dev - 请求结果:200
+[2016-01-12 17:30:08.358] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452591008356735310016","data":[],"count":0}
+[2016-01-12 17:31:08.363] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:31:08.363] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:31:08.364] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:31:08.364] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:31:08.364] [INFO] dev - 请求结果:200
+[2016-01-12 17:31:08.364] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452591068361253458479","data":[],"count":0}
+[2016-01-12 17:32:08.429] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:32:08.430] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:32:08.430] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:32:08.430] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:32:08.430] [INFO] dev - 请求结果:200
+[2016-01-12 17:32:08.431] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452591128428469222804","data":[],"count":0}
+[2016-01-12 17:33:08.435] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:33:08.436] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:33:08.436] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:33:08.437] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:33:08.437] [INFO] dev - 请求结果:200
+[2016-01-12 17:33:08.437] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452591188434904136627","data":[],"count":0}
+[2016-01-12 17:34:08.500] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:34:08.500] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:34:08.500] [INFO] dev - 处理时间:5ms
+[2016-01-12 17:34:08.501] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:34:08.501] [INFO] dev - 请求结果:200
+[2016-01-12 17:34:08.501] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452591248498280550516","data":[],"count":0}
+[2016-01-12 17:35:08.505] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:35:08.506] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:35:08.506] [INFO] dev - 处理时间:2ms
+[2016-01-12 17:35:08.506] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:35:08.506] [INFO] dev - 请求结果:200
+[2016-01-12 17:35:08.506] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452591308504707449026","data":[],"count":0}
+[2016-01-12 17:36:08.568] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:36:08.568] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:36:08.570] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:36:08.570] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:36:08.570] [INFO] dev - 请求结果:200
+[2016-01-12 17:36:08.571] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452591368566188492647","data":[],"count":0}
+[2016-01-12 17:37:08.578] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:37:08.578] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:37:08.579] [INFO] dev - 处理时间:5ms
+[2016-01-12 17:37:08.579] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:37:08.579] [INFO] dev - 请求结果:200
+[2016-01-12 17:37:08.579] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452591428575508310677","data":[],"count":0}
+[2016-01-12 17:38:08.628] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:38:08.628] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:38:08.628] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:38:08.629] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:38:08.629] [INFO] dev - 请求结果:200
+[2016-01-12 17:38:08.629] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452591488626232728045","data":[],"count":0}
+[2016-01-12 17:39:08.639] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:39:08.639] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:39:08.639] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:39:08.640] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:39:08.640] [INFO] dev - 请求结果:200
+[2016-01-12 17:39:08.640] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452591548637763125767","data":[],"count":0}
+[2016-01-12 17:40:08.694] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:40:08.695] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:40:08.695] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:40:08.698] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:40:08.698] [INFO] dev - 请求结果:200
+[2016-01-12 17:40:08.698] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452591608693603403032","data":[],"count":0}
+[2016-01-12 17:41:08.704] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:41:08.704] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:41:08.705] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:41:08.705] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:41:08.705] [INFO] dev - 请求结果:200
+[2016-01-12 17:41:08.705] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"145259166870223200404","data":[],"count":0}
+[2016-01-12 17:42:08.759] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:42:08.760] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:42:08.760] [INFO] dev - 处理时间:3ms
+[2016-01-12 17:42:08.760] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:42:08.760] [INFO] dev - 请求结果:200
+[2016-01-12 17:42:08.761] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452591728758980505215","data":[],"count":0}
+[2016-01-12 17:43:08.765] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:43:08.765] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:43:08.765] [INFO] dev - 处理时间:3ms
+[2016-01-12 17:43:08.766] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:43:08.766] [INFO] dev - 请求结果:200
+[2016-01-12 17:43:08.766] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452591788764669576700","data":[],"count":0}
+[2016-01-12 17:44:08.827] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:44:08.827] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:44:08.828] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:44:08.828] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:44:08.828] [INFO] dev - 请求结果:200
+[2016-01-12 17:44:08.829] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452591848826342856068","data":[],"count":0}
+[2016-01-12 17:45:08.838] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:45:08.838] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:45:08.839] [INFO] dev - 处理时间:7ms
+[2016-01-12 17:45:08.839] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:45:08.839] [INFO] dev - 请求结果:200
+[2016-01-12 17:45:08.839] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"145259190883479848427","data":[],"count":0}
+[2016-01-12 17:46:08.876] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:46:08.877] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:46:08.877] [INFO] dev - 处理时间:5ms
+[2016-01-12 17:46:08.878] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:46:08.878] [INFO] dev - 请求结果:200
+[2016-01-12 17:46:08.878] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452591968873902002262","data":[],"count":0}
+[2016-01-12 17:47:08.885] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:47:08.886] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:47:08.886] [INFO] dev - 处理时间:3ms
+[2016-01-12 17:47:08.887] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:47:08.887] [INFO] dev - 请求结果:200
+[2016-01-12 17:47:08.887] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452592028884136653490","data":[],"count":0}
+[2016-01-12 17:48:08.930] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:48:08.931] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:48:08.931] [INFO] dev - 处理时间:3ms
+[2016-01-12 17:48:08.931] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:48:08.932] [INFO] dev - 请求结果:200
+[2016-01-12 17:48:08.933] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452592088929119107729","data":[],"count":0}
+[2016-01-12 17:49:08.938] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:49:08.939] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:49:08.939] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:49:08.939] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:49:08.940] [INFO] dev - 请求结果:200
+[2016-01-12 17:49:08.940] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452592148936258273810","data":[],"count":0}
+[2016-01-12 17:50:08.979] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:50:08.980] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:50:08.980] [INFO] dev - 处理时间:3ms
+[2016-01-12 17:50:08.981] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:50:08.981] [INFO] dev - 请求结果:200
+[2016-01-12 17:50:08.981] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452592208978405737985","data":[],"count":0}
+[2016-01-12 17:51:08.998] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:51:08.998] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:51:08.999] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:51:08.999] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:51:08.999] [INFO] dev - 请求结果:200
+[2016-01-12 17:51:09.000] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452592268996998250978","data":[],"count":0}
+[2016-01-12 17:52:09.068] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:52:09.069] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:52:09.070] [INFO] dev - 处理时间:8ms
+[2016-01-12 17:52:09.071] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:52:09.071] [INFO] dev - 请求结果:200
+[2016-01-12 17:52:09.072] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"145259232906748375997","data":[],"count":0}
+[2016-01-12 17:53:09.077] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:53:09.078] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:53:09.078] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:53:09.078] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:53:09.078] [INFO] dev - 请求结果:200
+[2016-01-12 17:53:09.079] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452592389076149961385","data":[],"count":0}
+[2016-01-12 17:54:09.140] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:54:09.140] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:54:09.141] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:54:09.141] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:54:09.141] [INFO] dev - 请求结果:200
+[2016-01-12 17:54:09.142] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"145259244913815501856","data":[],"count":0}
+[2016-01-12 17:55:09.147] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:55:09.148] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:55:09.148] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:55:09.148] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:55:09.148] [INFO] dev - 请求结果:200
+[2016-01-12 17:55:09.148] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"145259250914648025745","data":[],"count":0}
+[2016-01-12 17:56:09.211] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:56:09.211] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:56:09.211] [INFO] dev - 处理时间:3ms
+[2016-01-12 17:56:09.211] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:56:09.212] [INFO] dev - 请求结果:200
+[2016-01-12 17:56:09.212] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452592569209462984148","data":[],"count":0}
+[2016-01-12 17:57:09.217] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:57:09.217] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:57:09.217] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:57:09.218] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:57:09.218] [INFO] dev - 请求结果:200
+[2016-01-12 17:57:09.218] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"145259262921586727829","data":[],"count":0}
+[2016-01-12 17:58:09.269] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:58:09.271] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:58:09.271] [INFO] dev - 处理时间:5ms
+[2016-01-12 17:58:09.272] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:58:09.272] [INFO] dev - 请求结果:200
+[2016-01-12 17:58:09.272] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452592689266685052742","data":[],"count":0}
+[2016-01-12 17:59:09.276] [INFO] dev - ------------------------------------------------------------------------------------------
+[2016-01-12 17:59:09.276] [INFO] dev - 请求地址:http://127.0.0.1:34366/queue?taskName=lpPrice
+[2016-01-12 17:59:09.277] [INFO] dev - 处理时间:4ms
+[2016-01-12 17:59:09.277] [INFO] dev - 请求头:{"Connection":"keep-alive","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36"}
+[2016-01-12 17:59:09.277] [INFO] dev - 请求结果:200
+[2016-01-12 17:59:09.278] [INFO] dev - 返回内容:{"code":0,"message":"读取成功！","logId":"1452592749275821031570","data":[],"count":0}

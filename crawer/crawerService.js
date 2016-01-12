@@ -2,11 +2,12 @@
  * Created by ou on 16-1-7.
  */
 var request = require("request"),
-  $ = require("jquery"),
+  jquery = require("jquery"),
   _ = require('underscore'),
   logger = require("./config/logger.js").getLogger("crawer"),
   env = require("jsdom").env,
   jsdom = require("jsdom"),
+  $ = null,
   service = null;
 module.exports = service = {
   loadHtml:function(url,encode,callback){
@@ -36,16 +37,19 @@ module.exports = service = {
     else return method.call($target,param);
   },
   getValue:function($node,selector,attr,param,isArray){
-    var target = $node.find(selector),
-      _this = this,
-      $target = $(target);
+    var _this = this,
+      $target = null;
+    if(!selector) $target = $node;
+    else{
+      $target = $($node.find(selector))
+    }
     var result = null;
     if(!isArray) {
       result = $target[attr];
       if((typeof result)=="function")  {
         result = _this.jqueryCall($target,result,param);
       }
-      result = result.replace(/[\n|\t|\r]/g,"");
+      if(result) result = result.replace(/[\n|\t|\r]/g,"");
     }
     else{
       result = [];
@@ -54,7 +58,7 @@ module.exports = service = {
           attrValue = $item[attr];
         if(typeof  attrValue=="function"){
           attrValue = _this.jqueryCall($item,attrValue,param);
-          attrValue = attrValue.replace(/[\n|\t|\r]/g,"");
+          if(attrValue) attrValue = attrValue.replace(/[\n|\t|\r]/g,"");
         }
         result.push(attrValue);
       });
@@ -67,13 +71,23 @@ module.exports = service = {
     if(!isArray){
       var record = {};
       for(var rule in rules){
-        record[rule] = _this.getValue($($node[0]),rules[rule].selector,rules[rule].attr,rules[rule].param,rules[rule].array);
+        if(typeof rules [rule]!="object") {
+          record[rule] = rules[rule];
+          continue;
+        }
+        var selector = rules[rule].selector,
+          attr = rules[rule].attr||"html";
+        record[rule] = _this.getValue($($node[0]),selector,attr,rules[rule].param,rules[rule].array);
       }
       return record;
     }
     $node.each(function(index,item){
       var record = {};
       for(var rule in rules){
+        if(typeof rules [rule]!="object") {
+          record[rule] = rules[rule];
+          continue;
+        }
         record[rule] = _this.getValue($(item),rules[rule].selector,rules[rule].attr,rules[rule].param,rules[rule].array);
       }
         results.push(record);
@@ -89,7 +103,9 @@ module.exports = service = {
       }
       env(html,function(error,window){
         if(err) return callback(error);
-        $ = $(window);
+        $ = jquery(window);
+
+        console.log(conf.parentNode);
         var $parentNode = (conf.parentNode?$(conf.parentNode):$ );
         //if(conf.parentNode) $parentNode = $parentNode.find(conf.parentNode);
 
@@ -111,7 +127,8 @@ service.crawer({
       selector:"td:eq(0)",
       attr:"html",
       array:false
-    }
+    },
+    countryId:1
   }
 },"http://nc.mofcom.gov.cn/channel/gxdj/jghq/jg_list.shtml",function(err,result){
   //logger.info(err,result);
