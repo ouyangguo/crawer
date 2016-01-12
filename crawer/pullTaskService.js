@@ -7,6 +7,7 @@ var zmq = require('zmq')
   logger = require("./config/logger").getLogger("crawer"),
   config = require("./config/config");
 
+
 sock.connect(config.task_url);
 logger.info('crawer connected to '+config.task_url);
 
